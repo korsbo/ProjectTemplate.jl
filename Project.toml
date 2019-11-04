@@ -3,6 +3,14 @@ uuid = "1837bf2e-e1bd-4166-9afa-9b5fc6617024"
 authors = ["Niklas Korsbo <niklas.korsbo@slcu.cam.ac.uk>"]
 version = "0.1.0"
 
+[deps]
+BlackBoxOptim = "a134a8b2-14d6-55f6-9291-3336d3ab0209"
+CostFunctions = "f89e0132-1498-5970-8ab8-7ab7006d331c"
+DiffEqBiological = "eb300fae-53e8-50a0-950c-e21f52c2b7e0"
+DiffEqParameters = "c3c3384c-a140-11e8-14a5-c91fcecd9d25"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
+
 [compat]
 julia = "1"
 
